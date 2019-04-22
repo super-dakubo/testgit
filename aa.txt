@@ -1,8 +1,4 @@
 aa
-°¡°¡
-<<<<<<< HEAD
-master1
+å•Šå•Š
 master2
-=======
-dev5   1
->>>>>>> dev5
+master1
